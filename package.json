@@ -12,11 +12,13 @@
     "file-saver": "^2.0.5",
     "jspdf": "^2.5.2",
     "next": "14.2.14",
+    "prismjs": "^1.29.0",
     "react": "^18",
     "react-dom": "^18",
     "react-quill": "^2.0.0"
   },
   "devDependencies": {
+    "@types/prismjs": "^1.26.4",
     "autoprefixer": "^10.4.20",
     "eslint": "^8",
     "eslint-config-next": "14.2.14",
